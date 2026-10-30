@@ -1,4 +1,4 @@
-# Hi, I'm Iza Maes!
+# Hello!
 
 ### Junior Software Developer
 
@@ -24,13 +24,3 @@ What I learned:
 - How Svelte works
 
 **Technologies:** Laravel, PHP, JavaScript, SQLite, Typescript, Svelte
-
-### [Project Name 2](REPOSITORY-URL)
-Short description of what the project does.
-
-**Technologies:** JavaScript, HTML, CSS
-
-### [Project Name 3](REPOSITORY-URL)
-Short description of what the project does.
-
-**Technologies:** [Your technologies]
